@@ -454,3 +454,17 @@ h5:after {
 .tm-contact{
   border-right: 1px solid;
 }
+
+/* coming soon */
+.coming-soon-banner{
+  border:1px solid;
+}
+.tm-coming-soon-img{
+  width: 100%;
+}
+.coming-soon-head{
+
+    text-align: center;
+    font-size: 45px;
+
+}
